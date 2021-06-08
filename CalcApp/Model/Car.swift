@@ -6,3 +6,25 @@
 //
 
 import Foundation
+
+class Car{
+
+    
+    var frontwheel = 0
+    var rearwheel = 0
+    
+    //イニシャライズ = 初期化
+    init(){
+        
+        frontwheel = 2
+        rearwheel = 2
+        
+    }
+    
+    func drive(){
+        
+        
+    }
+    
+    
+}
